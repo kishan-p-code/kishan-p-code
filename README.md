@@ -42,10 +42,4 @@ Hello! I'm a passionate and curious data enthusiast currently pursuing a B.Sc. i
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kishnan-code&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kishnan-code&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=kishnan-code&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
